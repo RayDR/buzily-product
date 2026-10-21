@@ -63,3 +63,9 @@ Every meaningful backend/frontend acceptance should produce a `ROADMAP UPDATE` b
 - client/product impact where applicable
 
 The canonical roadmap is then updated from that evidence.
+
+## Current DYMEXA status (2026-10-21)
+
+See the [cross-repository reconciliation report](reports/2026-10-21-DYMEXA-STATUS.md) for the accepted Loop 17 frontend release, QA smoke evidence, backend baseline, and pending Home/Business Settings work. DYMEXA is the customer-facing brand; technical repositories and compatibility identifiers retain their historical names pending a controlled migration.
+
+**Planning audit note:** the roadmap and module paths listed above were not retrievable from `main` at the time of this review. Do not infer current release percentages from those missing files. The reconciliation report is a dated status snapshot, not a replacement for the future canonical structured roadmap.
